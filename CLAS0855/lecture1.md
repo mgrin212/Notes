@@ -1,4 +1,4 @@
-# What is the bhagavad gita?
+# What is the Bhagavad Gita?
 
 It is an important philosophical text from Southeast Asia
 
