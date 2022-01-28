@@ -5,6 +5,7 @@
 - numbers: 0,1,2,-5
 - strings "abc", "cs200"
 - Booleans: true, false
+- Lists
 
 ```pyret
 2 / 3
@@ -34,3 +35,16 @@ end
 >>> fred-boa.name
 "Fred"
 ```
+
+### Lists
+```pyret
+nums = [list: 1,2,3,4,5]
+```
+
+Things to do with lists:
+
+- sort
+- pull out items
+- loop through lists
+- call a function on items in a list
+- filter through a list
