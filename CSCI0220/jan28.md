@@ -12,7 +12,7 @@ What is a proposition?
 
 How do we tell if a proposition is true?
 
-We can give an example: 
+We can give an example:
 
         - Proposition 5: There is a two-digit perfect square whose final digit is 4.
             - True. $8^2 = 64$
@@ -26,7 +26,8 @@ We can give an example:
 
 Proposition 9: For every nonnegative integer, n. the value of $n^2 + n + 41$ is prime
 
-Proof by counter example: 
+Proof by counter example:
+
 Define $p(n) ::= n^2 + n + 41$
 
 $p(0) = 41$
@@ -35,17 +36,20 @@ $\vdots$
 
 $p(10) = 151$
 
-```math
-\begin{align}
-x &= 2 \tag{hi} \\
-y &= x + 5 + x
-\end{align}
-```
-
-
 ## Notation
+
 - $\mathbb{Z}$ is the **integers**
 - $\mathbb{Z}^+$ is **positive integers**
 - $\mathbb{N}$ is the **non-negative integers**
 - $\forall$ means **for all**
 - $\exists$ means **there exists**
+
+Examples:
+
+$\forall n \in \mathbb{N}, n^2 \text{ mod } 10 = 6$
+
+Proposition 10: Euler's conjecture
+
+$\forall a,b,c,d \in \mathbb{Z}^+, a^4 +b^4+c^4 \neq d^4$
+
+No!
