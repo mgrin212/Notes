@@ -53,3 +53,28 @@ Proposition 10: Euler's conjecture
 $\forall a,b,c,d \in \mathbb{Z}^+, a^4 +b^4+c^4 \neq d^4$
 
 No!
+
+## Who decides truth?
+
+- The goal of mathematics is "common knowledge": give anyone the definitions,
+and a proof or counterexample, and they can check it. Even a computer could do it.
+- This is why we focus on *mathematical* propositions here. 
+
+## What is a predicate?
+
+A *predicate* is a proposition whose truth depends on the value of one or more variables.
+
+Examples:
+- $n$ is odd
+- The sum of consecutive numbers $a$ and $b$ is prime
+- $x$ is an integer, $2x$ is even
+
+Use quantifiers to turn predicates into propositions
+
+Predicate notation:
+```math
+\begin{align}
+    p(n)
+\end{align}
+```
+
