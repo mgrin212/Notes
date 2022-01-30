@@ -81,9 +81,3 @@ prime - *x* is an integer, 2*x* is even
 Use quantifiers to turn predicates into propositions
 
 Predicate notation:
-
-``` math
-\begin{align}
-    p(n)
-\end{align}
-```
