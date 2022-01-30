@@ -14,15 +14,14 @@ How do we tell if a proposition is true?
 
 We can give an example:
 
-        - Proposition 5: There is a two-digit perfect square whose final digit is 4.
-            - True. $8^2 = 64$
-        - Proposition 6: There is a two-digit perfect square whose final digit is 8.
-            - False. We can enumerate and see there is no possible answer
-        - Proposition 7: There is a perfect square whose final digit is 4.
-            - True. we showed it earlier
-        - Proposition 8: There is a perfect square whose final digit is 8
-            - False.
-
+- Proposition 5: There is a two-digit perfect square whose final digit is 4.
+    - True. $8^2 = 64$
+- Proposition 6: There is a two-digit perfect square whose final digit is 8.
+    - False. We can enumerate and see there is no possible answer
+- Proposition 7: There is a perfect square whose final digit is 4.
+    - True. we showed it earlier
+- Proposition 8: There is a perfect square whose final digit is 8
+    - False.
 
 Proposition 9: For every nonnegative integer, n. the value of $n^2 + n + 41$ is prime
 
