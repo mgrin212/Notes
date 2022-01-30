@@ -1,3 +1,4 @@
-Pages
+# Matt's notes
 
-[pages](/MATH0180/test.html)
+## Math Notes
+[01/28/22](/MATH0180/test.html)
