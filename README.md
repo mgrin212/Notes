@@ -1,3 +1,3 @@
 Pages
 
-[pages]("./MATH0180/index.html")
+[pages](./MATH0180/index.html)
